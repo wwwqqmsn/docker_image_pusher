@@ -5,5 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 wordpress
-virking/baota
-wangjia184/audio2face:latest
+wangjia184/audio2face
