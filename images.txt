@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 wordpress
 virking/baota
-wangjia184/audio2face
+wangjia184/audio2face:latest
