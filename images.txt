@@ -8,4 +8,4 @@ wordpress
 sulinggg/openwrt:latest
 unifreq/openwrt-aarch64
 portainer/portainer-ce
-portainer/portainer-ce:linux/arm/v7
+portainer/portainer-ce:alpine-sts
